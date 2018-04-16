@@ -1,0 +1,54 @@
+c:\users\laptop\documents\visual studio 2015\Projects\botstrony\botstrony\bin\Debug\botstrony.exe.config
+C:\Users\Laptop\documents\visual studio 2015\Projects\botstrony\botstrony\bin\Debug\botstrony.exe
+C:\Users\Laptop\documents\visual studio 2015\Projects\botstrony\botstrony\bin\Debug\botstrony.pdb
+C:\Users\Laptop\documents\visual studio 2015\Projects\botstrony\botstrony\obj\Debug\botstrony.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\documents\visual studio 2015\Projects\botstrony\botstrony\obj\Debug\botstrony.Form1.resources
+C:\Users\Laptop\documents\visual studio 2015\Projects\botstrony\botstrony\obj\Debug\botstrony.Properties.Resources.resources
+C:\Users\Laptop\documents\visual studio 2015\Projects\botstrony\botstrony\obj\Debug\botstrony.csproj.GenerateResource.Cache
+C:\Users\Laptop\documents\visual studio 2015\Projects\botstrony\botstrony\obj\Debug\botstrony.exe
+C:\Users\Laptop\documents\visual studio 2015\Projects\botstrony\botstrony\obj\Debug\botstrony.pdb
+C:\Users\Bartosz\Desktop\botstrony\botstrony\bin\Debug\botstrony.exe.config
+C:\Users\Bartosz\Desktop\botstrony\botstrony\obj\Debug\botstrony.exe
+C:\Users\Bartosz\Desktop\botstrony\botstrony\obj\Debug\botstrony.pdb
+C:\Users\Bartosz\Desktop\botstrony\botstrony\bin\Debug\botstrony.exe
+C:\Users\Bartosz\Desktop\botstrony\botstrony\bin\Debug\botstrony.pdb
+C:\Users\Bartosz\Desktop\botstrony\botstrony\obj\Debug\botstrony.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\Desktop\botstrony\botstrony\obj\Debug\botstrony.Form1.resources
+C:\Users\Bartosz\Desktop\botstrony\botstrony\obj\Debug\botstrony.Properties.Resources.resources
+C:\Users\Bartosz\Desktop\botstrony\botstrony\obj\Debug\botstrony.csproj.GenerateResource.Cache
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\botstrony\botstrony\bin\Debug\botstrony.exe.config
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.exe
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.pdb
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\botstrony\botstrony\bin\Debug\botstrony.exe
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\botstrony\botstrony\bin\Debug\botstrony.pdb
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.Form1.resources
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.Properties.Resources.resources
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.csproj.GenerateResource.Cache
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\Clone\VisualStudio\botstrony\botstrony\bin\Debug\botstrony.exe.config
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\Clone\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.exe
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\Clone\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.pdb
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\Clone\VisualStudio\botstrony\botstrony\bin\Debug\botstrony.exe
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\Clone\VisualStudio\botstrony\botstrony\bin\Debug\botstrony.pdb
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\Clone\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\Clone\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.Form1.resources
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\Clone\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.Properties.Resources.resources
+C:\Users\Bartosz\Desktop\Projekty_Github\C#\VisualStudio\Clone\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.csproj.GenerateResource.Cache
+C:\Users\Laptop\Documents\GitHub\Nowe\botstrony\botstrony\bin\Debug\botstrony.exe.config
+C:\Users\Laptop\Documents\GitHub\Nowe\botstrony\botstrony\obj\Debug\botstrony.exe
+C:\Users\Laptop\Documents\GitHub\Nowe\botstrony\botstrony\obj\Debug\botstrony.pdb
+C:\Users\Laptop\Documents\GitHub\Nowe\botstrony\botstrony\bin\Debug\botstrony.exe
+C:\Users\Laptop\Documents\GitHub\Nowe\botstrony\botstrony\bin\Debug\botstrony.pdb
+C:\Users\Laptop\Documents\GitHub\Nowe\botstrony\botstrony\obj\Debug\botstrony.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\Nowe\botstrony\botstrony\obj\Debug\botstrony.Form1.resources
+C:\Users\Laptop\Documents\GitHub\Nowe\botstrony\botstrony\obj\Debug\botstrony.Properties.Resources.resources
+C:\Users\Laptop\Documents\GitHub\Nowe\botstrony\botstrony\obj\Debug\botstrony.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Github Projects\VisualStudio\botstrony\botstrony\bin\Debug\botstrony.exe.config
+C:\Users\PC\Desktop\Github Projects\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.exe
+C:\Users\PC\Desktop\Github Projects\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.pdb
+C:\Users\PC\Desktop\Github Projects\VisualStudio\botstrony\botstrony\bin\Debug\botstrony.exe
+C:\Users\PC\Desktop\Github Projects\VisualStudio\botstrony\botstrony\bin\Debug\botstrony.pdb
+C:\Users\PC\Desktop\Github Projects\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Github Projects\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.Form1.resources
+C:\Users\PC\Desktop\Github Projects\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.Properties.Resources.resources
+C:\Users\PC\Desktop\Github Projects\VisualStudio\botstrony\botstrony\obj\Debug\botstrony.csproj.GenerateResource.Cache
